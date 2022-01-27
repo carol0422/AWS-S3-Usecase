@@ -1,5 +1,5 @@
 # AWS-S3-Usecase
-Project using AWS S3 - Course: Language of Business
+Project using AWS S3, lamda function - Course: Language of Business
 
 ## task 1
 At first, the CFO would like to have a better understanding of the pros and cons of the 
